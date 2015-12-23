@@ -1,23 +1,22 @@
-
-  body {
-    background-color: yellowgreen;
-    margin-left: 75px;
-    margin-right: 75px;
-    margin-top: 25px
-  }
-  form {
-    color: black;
-  }
-  input, textarea {
-    color: darkgreen;
-  }
-  img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 140px;
-  }
-  div.email {
-    background-color: white;
-    padding: 5px
-  }
+body {
+  background-color: yellowgreen;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 25px
+}
+form {
+  color: black;
+}
+input, textarea {
+  color: darkgreen;
+}
+img {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 140px;
+}
+div.email {
+  background-color: white;
+  padding: 5px
+}
